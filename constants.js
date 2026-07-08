@@ -137,7 +137,7 @@ export const PROJECTS = [
   url: "https://github.com/syedasifakhtar91/AI_Resume_Analyzer",
   tech: [
   "react.svg",
-  "node.js.svg",
+  "Node.js.svg",
   "mongodb.svg",
   "google-gemini.svg"
 
