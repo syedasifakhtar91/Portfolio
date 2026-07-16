@@ -15,9 +15,10 @@ export const METADATA = {
 
   ].join(", "),
   image:
-    "https://res.cloudinary.com/dywdhyojt/image/upload/v1721378510/social-preview.png",
+     "https://portfolio-asif23.vercel.app/preview.png",
   language: "English",
   themeColor: "#000000",
+  siteUrl: "https://portfolio-asif23.vercel.app",
 };
 
 export const MENULINKS = [
