@@ -1,6 +1,6 @@
 export const METADATA = {
   author: "Syed Asif Akhtar",
-  title: "Portfolio | Syed Asif Akhtar",
+  title: "Portfolio",
   description:
   "Syed Asif Akhtar is a Full Stack and Generative AI Developer focused on building AI-powered applications using LLMs, RAG, AI Agents and modern web technologies.",
  
