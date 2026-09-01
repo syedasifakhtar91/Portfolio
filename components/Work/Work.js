@@ -11,7 +11,7 @@ const Work = ({ isDesktop }) => {
   const tabItems = useMemo(
     () => [
       {
-        title: "GenAI Projects",
+        title: "Projects",
         value: "grapevine",
         content: (
           <StickyScroll

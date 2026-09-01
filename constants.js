@@ -144,7 +144,14 @@ export const PROJECTS = [
 
   ],
 },
-
+{
+  name: "Restaurant POS System",
+  imageKey: "restaurant-pos",
+  description: "Restaurant Point of Sale system for managing tables, orders and payments",
+  gradient: ["#EF4444", "#F97316"],
+  url: "https://github.com/syedasifakhtar91/Restaurant-POS-System",
+  tech: ["react.svg", "Node.js.svg", "mongodb.svg"],
+},
 ];
 
 export const WORK_CONTENTS = {
@@ -192,6 +199,17 @@ export const WORK_CONTENTS = {
     </div>
   ),
 },
+
+  {
+  title: "Restaurant POS System",
+  description:
+    "A full-featured Restaurant POS System built using the MERN Stack to streamline restaurant operations, enhance customer experience, and efficiently manage tables, menus, orders, payments, and billing.",
+  content: (
+    <div className="h-full w-full flex items-center justify-center text-white px-4">
+      React • Node.js • MongoDB
+    </div>
+  ),
+}, 
 
 ],
   
