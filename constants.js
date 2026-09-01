@@ -147,7 +147,7 @@ export const PROJECTS = [
 {
   name: "Restaurant POS System",
   imageKey: "restaurant-pos",
-  description: "Restaurant Point of Sale system for managing tables, orders and payments",
+  description: "Restaurant POS system for managing tables, orders and payments",
   gradient: ["#EF4444", "#F97316"],
   url: "https://github.com/syedasifakhtar91/Restaurant-POS-System",
   tech: ["react.svg", "Node.js.svg", "mongodb.svg"],
